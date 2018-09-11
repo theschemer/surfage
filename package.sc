@@ -1,5 +1,5 @@
 (("name" . "surfage")
-("version" . "0.1.0")
+("version" . "1.0.0")
 ("description" . "Scheme Requests for Implementation (SRFIs), as R6RS libraries.")
 ("keywords")
 ("author" 
